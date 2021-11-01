@@ -3,7 +3,7 @@
 *Recreated with pure HTML and CSS*
 ---
 
-This site is to demonstrate the ability to creaate a resume document using soley HTML and CSS.
+This site is to demonstrate the ability to creaate a resume document using soley `HTML` and `CSS`.
 
 This is a:
 
