@@ -11,7 +11,7 @@ This is a:
 -   Conforms to HTML5 and CSS3 standards
 -   Utillizes CSS Flexbox and Grids for Alignment and Position
 
-All Page assets are strictly HTML or CSS.
+All Page assets are strictly `HTML` or `CSS`.
 
 This template was lifted from: [ResumeLab.com](https://resumelab.com/resume-examples/software-engineer) [[img](https://cdn-images.resumelab.com/pages/software_engineer_resumelab_1.png?1577050311)].
 
